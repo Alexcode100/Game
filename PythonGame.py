@@ -3,7 +3,7 @@
 #Alexander den Otter  -  (99067410)
 #Joris Lubbers  -  (99067627)
 #---------
-
+ 
 #imports
 import random
 import sys
